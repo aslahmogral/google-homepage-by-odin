@@ -1,0 +1,15 @@
+body{
+    display:flex;
+    flex-direction: column;
+}
+
+.navitem{
+    padding-left: 15px;
+}
+.flex-nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+   
+
