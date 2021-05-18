@@ -12,4 +12,13 @@ body{
     justify-content: flex-end;
 }
    
+.flex-main{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+}
 
+.logo , .input, .buttons{
+    padding-top: 10px;
+}
