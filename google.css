@@ -3,6 +3,11 @@ body{
     flex-direction: column;
 }
 
+main{
+    height: 90vh;
+    padding-top: 15%;
+}
+
 .navitem{
     padding-left: 15px;
 }
@@ -30,4 +35,16 @@ body{
 
 .footer1{
     flex:1;
+}
+
+input{
+    width:550px;
+    height: 30px;
+    border-radius:13px;
+   
+}
+
+button{
+    width:120px ;
+    padding: 5px;
 }
